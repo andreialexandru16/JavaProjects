@@ -1,4 +1,4 @@
-Pentru crearea unei aplicatii ce se ocupa de gestionarea unor xml-uri am realizat urmatoarele lucruri:
+Pentru crearea unei aplicatii ce se ocupa de gestionarea unor comenzi transmise ca xml-uri am realizat urmatoarele lucruri:
 
 1) Am citit order.xml pentru a identifica structura xml(obiecte,atribute etc);
 
